@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	//"reflect"
+	"log"
+	"github.com/go-martini/martini"
 )
 
 type Read struct {
